@@ -1,0 +1,11 @@
+{
+  "name": "padroes-css",
+  "version": "1.0.0",
+  "description": "Projeto criado com objetivo de demonstrar algumas más práticas de semântica e uso de CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

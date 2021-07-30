@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Adventure Time";
+    src: url("fonts/Adventure Time.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Dosis";
+    src: url("fonts/Dosis-Bold.ttf") format("truetype");
+    font-weight: 600;
+  }
+  
+  @font-face {
+    font-family: "Dosis";
+    src: url("fonts/Dosis-Regular.ttf") format("truetype");
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: "Dosis";
+    src: url("fonts/Dosis-Light.ttf") format("truetype");
+    font-weight: 200;
+  }
+  
+  @font-face {
+    font-family: "Dosis";
+    src: url("fonts/Dosis-ExtraBold.ttf") format("truetype");
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: "Dosis";
+    src: url("fonts/Dosis-SemiBold.ttf") format("truetype");
+    font-weight: 500;
+  }
